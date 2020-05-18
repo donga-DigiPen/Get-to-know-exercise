@@ -82,7 +82,7 @@ _It's done!!_
 
 Geonhwi Sim
 
-![Geonhwi.Sim](images/Geonhwi_Sim.jpg)
+![Geonhwi.Sim](https://cdn.discordapp.com/attachments/694762299835154463/711927791322529863/unknown.png)
 
 
 
